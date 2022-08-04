@@ -1,0 +1,45 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(/img/Retina-Series.png);
+    background-size:cover;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div.one {
+    width: 95%;
+    height: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(244, 196, 187, 0.9);
+}
+h1 {
+   color: white;
+   text-align: center;
+   text-shadow: 2px 2px 8px rgb(82, 6, 82);
+}
+
+h2 {
+    color:  white;
+    text-shadow: 2px 2px 8px rgb(82, 6, 82);
+    text-align: center;
+}
+
+div {
+    padding: 10px;
+    
+}
+p.divs {
+    color: white;
+    text-shadow: 2px 2px 8px rgb(24, 4, 24);
+    font-size: xx-large;
+    text-align: center;
+
+}
+div.two {
+    width: 400px;
+}
+
+.bcc {
+    background-color: rgba(244, 196, 187, 0.9);
+}
